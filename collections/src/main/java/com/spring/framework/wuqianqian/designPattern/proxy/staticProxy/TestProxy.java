@@ -1,4 +1,4 @@
-package com.spring.framework.wuqianqian.proxy.staticProxy;
+package com.spring.framework.wuqianqian.designPattern.proxy.staticProxy;
 
 /**
  * 测试

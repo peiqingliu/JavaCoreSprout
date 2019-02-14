@@ -1,4 +1,4 @@
-package com.spring.framework.wuqianqian.proxy.dynamicProxy;
+package com.spring.framework.wuqianqian.designPattern.proxy.dynamicProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

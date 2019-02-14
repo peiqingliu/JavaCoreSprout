@@ -1,4 +1,4 @@
-package com.spring.framework.wuqianqian.proxy.staticProxy;
+package com.spring.framework.wuqianqian.designPattern.proxy.staticProxy;
 
 /**
  * Cinema 就是 Proxy 代理对象，它有一个 play() 方法。不过调用 play() 方法时，它进行了一些相关利益的处理，那就是广告

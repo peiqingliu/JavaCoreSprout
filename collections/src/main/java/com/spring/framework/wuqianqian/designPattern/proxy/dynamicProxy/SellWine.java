@@ -1,4 +1,4 @@
-package com.spring.framework.wuqianqian.proxy.dynamicProxy;
+package com.spring.framework.wuqianqian.designPattern.proxy.dynamicProxy;
 
 /**
  * 假设有一个大商场，商场有很多的柜台，有一个柜台卖茅台酒。我们进行代码的模拟

@@ -1,4 +1,4 @@
-package com.spring.framework.wuqianqian.proxy.dynamicProxy;
+package com.spring.framework.wuqianqian.designPattern.proxy.dynamicProxy;
 
 /**
  * @author liupeqing
